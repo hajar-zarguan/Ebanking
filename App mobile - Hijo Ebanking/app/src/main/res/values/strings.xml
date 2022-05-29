@@ -1,0 +1,22 @@
+<resources>
+    <string name="paix">Sécurité</string>
+    <string name="nature">Support</string>
+    <string name="motivation">Transfer en toute securite</string>
+    <string name="objectifs">Se connecter a notre app</string>
+
+    <string name="paix_desc">La securite est notre objectifs</string>
+    <string name="motivation_desc">Rien n\'est plus insondable que le système de motivations derrière nos actions</string>
+    <string name="objectifs_desc">Le bonheur c\'est la poursuite d\'objectifs réalisables</string>
+
+    <string name="app_name">MyApp</string>
+    <string name="Title">Login</string>
+    <string name="signup">s\'identifier </string>
+    <string name="login_">s\'authenitification </string>
+    <string name="Bienvenue">Bievenue</string>
+    <string name="Email">Email</string>
+    <string name="pass">Mot de passe</string>
+    <string name="forgetPass">mot de passe oublié?</string>
+    <string name="nature_desc">"Transferer les donnees en toute securite "</string>
+
+
+</resources>
